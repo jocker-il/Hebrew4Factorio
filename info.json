@@ -1,0 +1,10 @@
+{
+  "name": "Hebrew4Eleven",
+  "version": "0.1",
+  "title": "Hebrew4Eleven",
+  "author": "JoCKeR-IL",
+  "homepage": "http://www.factorioforums.com/forum/",
+  "contact": "Message me @ http://www.factorioforums.com/forum/memberlist.php?mode=viewprofile&u=6027",
+  "description": "ONLY FOR HEBREW LOCALE - Inverts hebrew locale files so the hebrew text appears right to left (as it should).",
+  "dependencies": ["base = 0.11.22" ]
+}
