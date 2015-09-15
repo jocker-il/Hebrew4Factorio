@@ -1,4 +1,4 @@
-# Hebrew4Factorio_0.1.1
+# Hebrew4Factorio_0.1.1 (Dis-continued)
 Inverted Hebrew for Factorio 0.11.22
 
 Inverting hebrew text in the original base & core files so that it's displayed R-T-L visually as well as logically.
